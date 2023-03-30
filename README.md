@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khagesh000&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh000" /> </p>
 
-- 🔭 I’m currently studying computer science and engineering [lovecalculator](Khagesh000/lovecalculator.github.io)
+- 🔭 I’m currently studying computer science and engineering (Khagesh000/lovecalculator.github.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khagesh000](https://github.com/Khagesh000)
 
